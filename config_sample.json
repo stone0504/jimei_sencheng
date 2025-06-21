@@ -1,0 +1,7 @@
+{
+  "LINE_ACCESS_TOKEN": "your line access token here",
+  "USER_ID": "your line user id here",
+  "LINE_API_URL": "https://api.line.me/v2/bot/message/push",
+  "url": "http://www.sccoltd.com.tw/in-progress/123",
+  "check_interval": 7200
+}
